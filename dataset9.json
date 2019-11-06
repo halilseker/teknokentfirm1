@@ -1,0 +1,634 @@
+[
+  {
+    "firm_title": "TARVİT KİMYA VE İLERİ TEKNOLOJİLERİ LTD. ŞTİ.",
+    "firm_representative": "Salih Zeki YILDIZ",
+    "firm_phone_number": "0264 346 0322",
+    "firm_email": "info@tarvit.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Tarım sektöründe tüketilen organik ve inorganik makro ve mikro bitki besin elementlerini, toz ve sıvı humik ve fulvik asitler, amino asitler, deniz yosunları, özel nitelikli damlama gübrelerinin üretim ve Ar-ge çalışmaları hizmetleri"
+  },
+  {
+    "firm_title": "OSTERRAS TARIM VETERİNERLİK SAN. VE TİC. A. Ş.",
+    "firm_representative": "Teoman HIZAL",
+    "firm_phone_number": "0242 426 2605",
+    "firm_email": "info@osterras.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Tohum ıslahı Ar-Ge çalışmaları"
+  },
+  {
+    "firm_title": "NİYAN YAZILIM",
+    "firm_representative": "Ahmet Nezihi ÖZER",
+    "firm_phone_number": "0264 290 6154",
+    "firm_email": "info@niyan.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Bilgisayar programlama faaliyetleri, Otomasyon çözümleri"
+  },
+  {
+    "firm_title": "ARGEDE BİLİŞİM TEKNOLOJİLERİ SAN.TİC.LTD.ŞTİ.",
+    "firm_representative": "Faruk ŞENGÜN",
+    "firm_phone_number": "0264 277 0021",
+    "firm_email": "bilgi@argede.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Özel proje çözümleri, E-ticaret yazılım çözümleri, CRM, SharePoint Hizmetleri, Öğrenci yönetim sistemi, Kurumsal web çözümleri vb."
+  },
+  {
+    "firm_title": "ARMA BİLGİ TEKNOLOJİLERİ LTD. ŞTİ.",
+    "firm_representative": "Ufuk AKSAK",
+    "firm_phone_number": "0264 290 60 61",
+    "firm_email": "ufukaksak@armabt.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "E-ticaret ve sektörel yazılım çözümleri"
+  },
+  {
+    "firm_title": "ARVASİS BİLİŞİM VE DANIŞMANLIK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "firm_representative": "Muhammet Raşit CESUR",
+    "firm_phone_number": "0264 295 5491",
+    "firm_email": "torkul@sakarya.edu.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Üretim Planlama Yazılımları, Stok Kontrol Sistemi, Sensör Sistemi"
+  },
+  {
+    "firm_title": "CMV TEKNOLOJİ SANAYİ VE TİCARET LTD.ŞTİ",
+    "firm_representative": "Burak SÜLÜN",
+    "firm_phone_number": "0532 317 7655",
+    "firm_email": "burak.sulun@cmvteknoloji.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Sektörel yazılım danışmanlığı, Ar-Ge faaliyetleri, Dış kaynak hizmetleri"
+  },
+  {
+    "firm_title": "CAZ BİLİŞİM HİZMETLERİ TİCARET A.Ş.",
+    "firm_representative": "Zafer GÜREL",
+    "firm_phone_number": "0530 306 8899",
+    "firm_email": "iletisim@advancity.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Akademik İYS, EYS Sistemleri, Online Sanal Sınıf, Toplantı Sistemi, Mobil Uzaktan Eğitim Sistemi, Sınav Sistemi"
+  },
+  {
+    "firm_title": "C1SOFT BİLİŞİM TEKNOLOJİLERİ A.Ş.",
+    "firm_representative": "İlhan GÖRGÜLÜ",
+    "firm_phone_number": "0850 532 36 46",
+    "firm_email": "ilhan.gorgulu@c1soft.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Özel ihtiyaçlara yazılım çözümleri, Web çözümleri, Mobil uygulama, Danışmanlık hizmetleri"
+  },
+  {
+    "firm_title": "ERKAY TEKNOLOJİ GELİŞTİRME HİZ. SAN. TİC. LTD. ŞTİ",
+    "firm_representative": "Erkal ETÇİOĞLU",
+    "firm_phone_number": "0264 290 6070",
+    "firm_email": "eetcioglu@sakarya.edu.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Yazılım hizmetleri, Danışmanlık Hizmetleri, Eğitim Hizmetleri"
+  },
+  {
+    "firm_title": "İNFOSİS BİLİŞİM VE KURUMSAL GELİŞİM ENSTİTÜSÜ SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Abdullah KARABAY",
+    "firm_phone_number": "0532 252 7087",
+    "firm_email": "info@infosis.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "ERP Çözümleri, E-devlet Uygulamaları, Mobil Çözümler, ERP Depo Uygulama Çözümleri"
+  },
+  {
+    "firm_title": "İNSAN TEKNOLOJİ VE BİLİŞİM HİZMETLERİ LTD. ŞTİ.",
+    "firm_representative": "Mustafa Şahin AYDIN",
+    "firm_phone_number": "544 242 1117",
+    "firm_email": "sahin@insanteknoloji.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Yazılım çözümleri, Ar-Ge ve İnovasyon, Danışmanlık hizmetleri"
+  },
+  {
+    "firm_title": "KURUMSAL YAZILIM VE DANIŞMANLIK LTD. ŞTİ.",
+    "firm_representative": "Ömer Fatih BÖLÜKBAŞ",
+    "firm_phone_number": "0543 801 7102",
+    "firm_email": "fatih@kurumsalyazilim.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "MRP/ERP Yazılım Hizmetleri, Üretim/Stok/Satış Takip Sistemleri, E-devlet Yazılımları, Proje Yönetimi, Eğitim Hizmetleri"
+  },
+  {
+    "firm_title": "LOSTAR BİLGİ GÜVENLİĞİ A.Ş.",
+    "firm_representative": "Murat LOSTAR",
+    "firm_phone_number": "0212 224 9004",
+    "firm_email": "info@lostar.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Güvenlik kontrolü hizmetleri, E-keşif ve bilgisayar adli, Kod incelemesi, GDPR Danışmanlığı, ISMS Danışmanlığı"
+  },
+  {
+    "firm_title": "NRS SİBER GÜVENLİK LTD. ŞTİ.",
+    "firm_representative": "Enes YARDIM",
+    "firm_phone_number": "0216 474 0038",
+    "firm_email": "bilgi@normshield.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Hızlı / Kapsamlı Siber Risk Puan Kart Hizmetleri"
+  },
+  {
+    "firm_title": "CASEMİCE (MERT YALÇINER)",
+    "firm_representative": "Mert YALÇINER",
+    "firm_phone_number": "0533 436 1142",
+    "firm_email": "mertyalciner@casemice.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "İlaç pazarlama yazılımları"
+  },
+  {
+    "firm_title": "MİRASİS BİLGİ SİSTEMLERİ VE TİC. LTD. ŞTİ.",
+    "firm_representative": "M. Ömer ZINGIL",
+    "firm_phone_number": "0212 346 0701",
+    "firm_email": "omerz@mirasis.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Mobil katma değerli servisler, İletişim teknoloji hizmetleri, Pazarlama hizmetleri, Web teknoloji hizmetleri, Kurumsal yazılımlar"
+  },
+  {
+    "firm_title": "OMİCRON BİLİŞİM HİZMETLERİ TİC. LTD. ŞTİ.",
+    "firm_representative": "Behlül BEHRAM",
+    "firm_phone_number": "0850 840 9277",
+    "firm_email": "info@omicron.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "E-ticaret, sigorta, perakende, hızlı tüketim, eğitim sektörlerine yazılım hizmetleri"
+  },
+  {
+    "firm_title": "POLİSOFT YAZILIM TİCARET VE SANAYİ LTD. ŞTİ.",
+    "firm_representative": "Recep AYDIN",
+    "firm_phone_number": "0264 346 0123",
+    "firm_email": "info@polisoft.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Sigorta kaynak planlama sistemi, Resmi muhasebe yönetim sistemi, Livelink satış yönetim sistemi, Otomatik teklif hesaplama sistemi"
+  },
+  {
+    "firm_title": "REKLAMOTV BİL. TEK. REK. VE ORG. HİZ. SAN. VE TİC. LTD.",
+    "firm_representative": "Zafer BAKIR",
+    "firm_phone_number": "0541 826 0820",
+    "firm_email": "info@reklamotv.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Araç İçi Reklam Ekranı, Videowall, LCD Digital Totem Kiosk, LCD Dijital İç Mekan Kiosk, Dokunmatik Kiosk, Dijital Menü Panosu"
+  },
+  {
+    "firm_title": "TEKNOLİVA BİLİŞİM SİSTEMLERİ LTD. ŞTİ.",
+    "firm_representative": "Ümit YILMAZYILDIRIM",
+    "firm_phone_number": "0216 576 7977",
+    "firm_email": "info@teknoliva.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Yazılım geliştirme hizmetleri, Teknik destek hizmetleri, Eğitim destek hizmetleri, Danışmanlık hizmetleri"
+  },
+  {
+    "firm_title": "VERİKAR YAZILIM DAN. VE BİL. HİZ. TİC. SAN. LTD. ŞTİ.",
+    "firm_representative": "Ayhan DEMİRİZ",
+    "firm_phone_number": "0264 502 2850",
+    "firm_email": "ademiriz@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Veri toplama, Veri madenciliği, Analiz, Tasarım"
+  },
+  {
+    "firm_title": "HIGPROC TEKNOLOJİ BİLİŞİM SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Serhat DUYGUN",
+    "firm_phone_number": "0533 777 1781",
+    "firm_email": "mustafa.karakaya@highproc.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü, ",
+    "firm_services": "Kurumsal Çözüm, Danışmanlık, Destek ve Bakım, Dış Kaynak Hizmetleri"
+  },
+  {
+    "firm_title": "BİNOPLUS YAZILIM SAN. İÇ VE DIŞ TİC. LTD. ŞTİ.",
+    "firm_representative": "Mahir MEHMETOĞLU",
+    "firm_phone_number": "0532 578 1737",
+    "firm_email": "info@binoplus.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Endüstriyel proje yönetimi, Mühendislik çözümleri, Pazar entegrasyon çözümleri"
+  },
+  {
+    "firm_title": "TRA BİLİŞİM TEKNOLOJİ HİZMETLERİ SAN. VE TİC. A.Ş.",
+    "firm_representative": "Hakan KAYIR",
+    "firm_phone_number": "0264 502 2729",
+    "firm_email": "operasyon@trabilisim.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Paylaşım ekonomisi pazarlarına ve dikey bankacılık,bankacılık,eğitim,hayvancılık ve benzerleri için uçtan uca ödeme çözümleri sunmaktadır."
+  },
+  {
+    "firm_title": "BERRAK SİSTEM TASARIM SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Cevat ALTUNKAYA",
+    "firm_phone_number": "0264 290 6160",
+    "firm_email": "cevat.altunkaya@alberen.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Araştırma geliştirme, üretim geliştirme,yazılım ve tasarım hizmetleri"
+  },
+  {
+    "firm_title": "EDİT ARGE YAZILIM GELİŞTİRME SAN. ve TİC. LTD. ŞTİ.",
+    "firm_representative": "Züber DOĞAN",
+    "firm_phone_number": "0264 502 2572",
+    "firm_email": "zuber@editsystems.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "ERP Danışmanlığı, Bireysel Yazılım Geliştirme, Business-Intelligence, Yüksek (Kesintisiz) Erişim Hizmetleri"
+  },
+  {
+    "firm_title": "MARMARA SİMÜLASYON VE BİLGİ TEKNOLOJİLERİ SAN. TİC. LTD. ŞTİ.",
+    "firm_representative": "Mehmet Fatih DÖKER",
+    "firm_phone_number": "0530 602 7945",
+    "firm_email": "fdoker@sakarya.edu.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Sistem, veri tabanı, network, web sayfası vb. yazılımları ile müşteriye özel yazılımların kodlanması"
+  },
+  {
+    "firm_title": "BROTHERS IT YAZILIM AR-GE VE BİLİŞİM HİZMETLERİ TİC. SAN. LTD. ŞTİ.",
+    "firm_representative": "Ercan BÜYÜKCAFER",
+    "firm_phone_number": "0536 986 6171",
+    "firm_email": "me@ercan.net",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "http://www.telefon.al/"
+  },
+  {
+    "firm_title": "PRIMEWARE YAZILIM SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Aysun ERKAN",
+    "firm_phone_number": "0264 255 6464",
+    "firm_email": "info@primeware.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Web tasarımları, Yazılım projeleri, Seo & Google Adwords, Sosyal Medya"
+  },
+  {
+    "firm_title": "SMART EĞİTİM ÇÖZÜMLERİ SAN VE TİC A.Ş.",
+    "firm_representative": "Ali UZUNYOLCU",
+    "firm_phone_number": "0212 401 2282",
+    "firm_email": "ali.uzunyolcu@smarteducation.net",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Eğitim platformu uygulamaları"
+  },
+  {
+    "firm_title": "FERİT YILDIZ – KAIZEN OKULU",
+    "firm_representative": "Ferit YILDIZ",
+    "firm_phone_number": "0264 277 0035",
+    "firm_email": "info@adamaksan.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Kaizen okulu, Üretim & İmalat, Verimlilik okulu"
+  },
+  {
+    "firm_title": "SABİM BİLİŞİM VE TEKNOLOJİ SAN. TİC. LTD. ŞTİ.",
+    "firm_representative": "Sinan SERT",
+    "firm_phone_number": "0555 234 7823",
+    "firm_email": "sinan.sert@sabim.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "E-ticaret danışmanlığı,Özel yazılım çözümleri, ERP çözümleri, Destek"
+  },
+  {
+    "firm_title": "ADEO BİLİŞİM DANIŞMANLIK HİZMETLERİ SAN VE TİC A.Ş.",
+    "firm_representative": "Halil ÖZTÜRKCİ",
+    "firm_phone_number": "0216 472 3535",
+    "firm_email": "info@adeo.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Bilişim danışmanlığı hizmetleri, Bilişim eğitimleri, Bilişim güvenliği hizmetleri, Dış kaynak sağlama hizmetleri"
+  },
+  {
+    "firm_title": "BGS İNTERAKTİF BİREYSEL GELİŞİM SİS. YAY. PAZ. A.Ş.",
+    "firm_representative": "Mehmet SAĞLAM",
+    "firm_phone_number": "0533 612 6974",
+    "firm_email": "posta@mehmetsaglam.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Eğitim Yönetim Sistem Yazılımları"
+  },
+  {
+    "firm_title": "KASS YAZILIM VE OTOMASYON SİS. SAN. TİC. LTD. ŞTİ.",
+    "firm_representative": "Korhan Gökmen BALCI",
+    "firm_phone_number": "0545 428 5060",
+    "firm_email": "korhanbalci@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Yazılım ve Danışmanlık Hizmetleri"
+  },
+  {
+    "firm_title": "KRİPTEX BİLİŞİM VE BİLGİ GÜVENLİĞİ TEKNOLOJİLERİ TİC. LTD. ŞTİ.",
+    "firm_representative": "Mehmet Bahattin MERCAN",
+    "firm_phone_number": "0264 502 2828",
+    "firm_email": "mehmet.mercan@kriptex.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Güvenlik Yazılım Hizmetleri"
+  },
+  {
+    "firm_title": "INTERACTIVE CURRICULUM SOLUTIONS (AHMET SINAV- ICS)",
+    "firm_representative": "Ahmet SINAV",
+    "firm_phone_number": "0530 947 7640",
+    "firm_email": "asinav@yahoo.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "WIN YOUNG BİLGİ VE İLETİŞİM TEKNOLOJİLERİ A.Ş.",
+    "firm_representative": "Emre ÖZBEY",
+    "firm_phone_number": "0505 376 3624",
+    "firm_email": "emre.ozbey@wy.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Yazılım geliştirme barındırma ve bakım hizmetleri, Sosyal medya çözümleri, Bilgilendirme servisi, Danışmanlık, Eğitim, Dış kaynak hizmetleri"
+  },
+  {
+    "firm_title": "TDG BİLİŞİM DANIŞMANLIK VE MÜŞTERİ HİZ. TİC. A.Ş.",
+    "firm_representative": "Batur ERDOĞAN",
+    "firm_phone_number": "0216 687 0958",
+    "firm_email": "info@td-grp.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "İş süreç yönetimi, Danışmanlık, Robotik, Siber güvenlik"
+  },
+  {
+    "firm_title": "ARKTEK PLUS",
+    "firm_representative": "Kerem Can ÖZKUL",
+    "firm_phone_number": "0538 322 3440",
+    "firm_email": "arktekplus@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "FİNANSTECH FİNANSAL DANIŞMANLIK VE EĞİTİM ANONİM ŞİRKETİ",
+    "firm_representative": "Evrensel DEMİRCİ",
+    "firm_phone_number": "0530 520 3102",
+    "firm_email": "evrensel.demirci@finanstech.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Karar destek sistemleri, CRM Hizmetleri"
+  },
+  {
+    "firm_title": "FİNTECH YAZILIM HİZMETLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Sabri Serhan GÜNER",
+    "firm_phone_number": "0532 614 2891",
+    "firm_email": "serhanguner@outlook.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Bankacılık ve Finans"
+  },
+  {
+    "firm_title": "PASTEL XML SEYAHAT TURİZM TEKNOLOJİ TAŞIMACILIK İNŞAAT A.Ş.",
+    "firm_representative": "Oğuz KIRMAN",
+    "firm_phone_number": "0537 689 4199",
+    "firm_email": "gulsen@bhandaltd.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "FXY BİLGİ TEKNOLOJİLERİ VE DİJİTAL PAZARLAMA TİC. LTD. ŞTİ.",
+    "firm_representative": "Murat DURAK",
+    "firm_phone_number": "0264 281 6555",
+    "firm_email": "murat@muratdurak.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Web tasarım ve programlama, E-ticaret çözümleri, Google optimizasyonu, Mobil uygulama geliştirme"
+  },
+  {
+    "firm_title": "BURAK ERSÜKMEN – ENYAKIN.COM",
+    "firm_representative": "Burak ERSÜKMEN",
+    "firm_phone_number": "0264 272 8206",
+    "firm_email": "info@adanetajans.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "https://www.enyakin.com/"
+  },
+  {
+    "firm_title": "METACORTEX BİLGİ TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Enver NEHİR",
+    "firm_phone_number": "0532 159 1810",
+    "firm_email": "info@metacortex.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "ZDC BİLİŞİM YAZILIM DANIŞMANLIK VE OTOMASYON TEK. SAN. TİC. LTD. ŞTİ.",
+    "firm_representative": "Hakan ÇAKIROĞLU",
+    "firm_phone_number": "0 533 776 72 75",
+    "firm_email": "iletisim@zdc.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Android ve IOS Native Mobil Uygulama Geliştirme, Unity VR AR İnteraktif Oyun ve Simulasyon Yazılımları, Endüstri 4.0 ve IOT Sistem Tasarımı, Bilgisayar Görmesi Yapay Zeka ve Görüntü İşleme Yazılımları, Windows & Linux Sunucu Danışmanlık Hizmetleri"
+  },
+  {
+    "firm_title": "DEFENSEIN SİBER SAVUNMA VE ARAŞTIRMA LTD. ŞTİ.",
+    "firm_representative": "\n",
+    "firm_phone_number": "0530 209 3709",
+    "firm_email": "a.koca@alkoyazilim.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Mobil Uygulama & Oyun Yazılımları,3D Modelleme & Render, VR & AR ve 3D Animasyon Hizmetleri, Sanal ve Artırılmış Gerçeklik Uygulamaları, Sanal ve Artırılmış Gerçeklik Oyun ve Simülasyon Yazılımları, Masaüstü & Web Kurumsal Yazılım Çözümleri"
+  },
+  {
+    "firm_title": "EKSADA DIŞ TİCARET DANIŞMANLIK VE YAZILIM A.Ş.",
+    "firm_representative": "\n",
+    "firm_phone_number": "–",
+    "firm_email": "info@defensein.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Red Team Assessment, Tatbikat ve Tehdit Simülasyonu, Siber Olaylara Müdahale, Güvenlik Sıkılaştırma Hizmeti, Siber Güvenlik Eğitimleri"
+  },
+  {
+    "firm_title": "ALTE TEKNOLOJİ EĞİTİM DANIŞMANLIK HİZ. TİC. LTD. ŞTİ.",
+    "firm_representative": "Halil DALABASMAZ",
+    "firm_phone_number": "0264 295 3206",
+    "firm_email": "sinanesen@sakarya.edu.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "CUBE GAMES YAZILIM SAN. TİC. LTD. ŞTİ.",
+    "firm_representative": "Doç. Dr. Sinan ESEN",
+    "firm_phone_number": "0 543 352 5200",
+    "firm_email": "alteteknoloji@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Zenginleştirilmiş Kitap Yazılımları Geliştirme Hizmetleri"
+  },
+  {
+    "firm_title": "KAMURAN CENANİ KARTAL-ELİPS BİLİŞİM",
+    "firm_representative": "Bekir İNCE",
+    "firm_phone_number": "0532 670 7343",
+    "firm_email": "info@cubegamesstudio.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Games Software"
+  },
+  {
+    "firm_title": "BLACK BLU YAZILIM SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Şevket BEDİR",
+    "firm_phone_number": "0850 346 5285 – 0312 911 9985",
+    "firm_email": "info@elipsbilisim.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Yazılım"
+  },
+  {
+    "firm_title": "TRORA MÜHENDİSLİK TEKNOLOJİLERİ VE DANIŞMANLIK TİC. SAN. LTD. ŞTİ.",
+    "firm_representative": "Rahmi AKGÜN",
+    "firm_phone_number": "0530 303 8704",
+    "firm_email": "rhmkgn@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Mühendislik Hizmetleri"
+  },
+  {
+    "firm_title": "HEDD MÜHENDİSLİK TASARIM DANIŞMANLIK SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Harun ÖZDEMİR",
+    "firm_phone_number": "0544 386 6902",
+    "firm_email": "harun.ozdemir@yalova.edu.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Otomotiv tasarımları ve mühendislik hizmetleri"
+  },
+  {
+    "firm_title": "DOĞU MOTOR ARGE SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Kurt İmren YAPICI",
+    "firm_phone_number": "0531 813 1064",
+    "firm_email": "yapici@dogumotor.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Mühendislik Hizmetleri"
+  },
+  {
+    "firm_title": "MURAT OYTUN KİV – KİV DESİGN",
+    "firm_representative": "Murat Oytun KİV",
+    "firm_phone_number": "0549 230 1234",
+    "firm_email": "muratkiv@yandex.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Endüstriyel Tasarım Hizmetleri"
+  },
+  {
+    "firm_title": "ATH PROJE VE MÜHENDİSLİK TİC. SAN. LTD. ŞTİ.",
+    "firm_representative": "Akif Tayfun HEREN",
+    "firm_phone_number": "0532 343 2756",
+    "firm_email": "tayfun.heren@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Mühendislik Hizmetleri"
+  },
+  {
+    "firm_title": "YAZ-KAR AR-GE A.Ş.",
+    "firm_representative": "Ali YAZICI",
+    "firm_phone_number": "0264 229 2117",
+    "firm_email": "yazkar.arge@yazkar.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Klima & Soğutma Hizmetleri"
+  },
+  {
+    "firm_title": "ZET GROUP ZOLLNER EISENMANN TECHNOLOGIE MÜH. SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Hakan GÜLER",
+    "firm_phone_number": "0264 295 5747",
+    "firm_email": "hguler@sakarya.edu.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Demiryolu Teknolojileri, Ulaşım ve İşletme Planlaması Teknolojileri, Toplu Taşımalarda Optimizasyon Sistemleri, Ulaştırma Projeleri, Yapım Teknolojileri, Debi Ölçüm Cihazları"
+  },
+  {
+    "firm_title": "ALARAS TELEKOMÜNİKASYON DANIŞMANLIK VE TİCARET A.Ş.",
+    "firm_representative": "Akay YEŞİLÖZ",
+    "firm_phone_number": "0544 590 2701",
+    "firm_email": "info@dronmarket.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "http://www.dronmarket.com"
+  },
+  {
+    "firm_title": "TEKNOMOD METALÜRJİ İNŞAAT BİLİŞİM TEKNOLOJİ TURİZM GIDA SAN. TİC. LTD. ŞTİ. ",
+    "firm_representative": "Taner DIRAMA",
+    "firm_phone_number": "0530 176 9940",
+    "firm_email": "taner.dirama@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Savunma Sanayi"
+  },
+  {
+    "firm_title": "İNOTEK MÜHENDİSLİK LTD. ŞTİ.",
+    "firm_representative": "Ahmet AYDIN",
+    "firm_phone_number": "0264 346 0780",
+    "firm_email": "info@inotekmuhendislik.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "TURTLE GERİ DÖNÜŞÜM ÇÖZ. SAN. TİC. A. Ş.",
+    "firm_representative": "İsmail KÖSE",
+    "firm_phone_number": "0264 278 4455",
+    "firm_email": "ismailkose@turtlerecycling.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "VALUABLE TOUCH ENERJİ HİZMETLERİ LTD. ŞTİ.",
+    "firm_representative": "Mustafa ENSARİ",
+    "firm_phone_number": "0262 311 1151",
+    "firm_email": "info@vtc.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Enerji maliyet optimizasyon hizmetleri, Operasyon yönetimi, Danışmanlık hizmetleri, Enerji yönetme hizmetleri"
+  },
+  {
+    "firm_title": "LUCAS ELEKTRİK SAN. VE TİC. A. Ş.",
+    "firm_representative": "Aytuğ SAKALLIOĞLU",
+    "firm_phone_number": "0264 276 8750",
+    "firm_email": "s.ergun@lucaselektrik.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Alternatörler, Marş Motorları, Marin Ürünler, Marş Dişlileri, Marş Kömürleri Üretimleri, Ar-Ge Hizmetleri"
+  },
+  {
+    "firm_title": "AKTİF GÜÇ ELEMANLARI SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Şener ERİŞİR – Recep MEMİŞ",
+    "firm_phone_number": "0530 975 2870 – 0535 348 8281",
+    "firm_email": "ages@aktif.net",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Enerji, Akıllı Bina Sistemleri, Endüstri, Güneş Enerjisi Sistemleri"
+  },
+  {
+    "firm_title": "AKCA ENERJİ SAN. VE TİC. A.Ş.",
+    "firm_representative": "Hasan AZAKLI – Orkun AKPINAR",
+    "firm_phone_number": "0541 273 9399 – 0541 401 1154",
+    "firm_email": "hasan_azakli@outlook.com.tr – orkunakpinar44@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Enerji"
+  },
+  {
+    "firm_title": "ŞAHİTTİN AYDEMİR ENERJİ SİSTEMLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Şahittin AYDEMİR",
+    "firm_phone_number": "0501 217 3600",
+    "firm_email": "sahittinaydemir@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Enerji Sistemleri"
+  },
+  {
+    "firm_title": "BAYT AR-GE ARAŞTIRMA VE GELİŞTİRME SAN. TİC. LTD. ŞTİ.",
+    "firm_representative": "Türker Fedai ÇAVUŞ",
+    "firm_phone_number": "0533 712 7328",
+    "firm_email": "tfcavus@sakarya.edu.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "DEMİRCİOĞLU ROBOTİK BİLİŞİM TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Musa DEMİRCİOĞLU",
+    "firm_phone_number": "0264 277 9922",
+    "firm_email": "musa@demircioglurobotik.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Robotik Sistemleri"
+  },
+  {
+    "firm_title": "İNOVAR AR-GE MÜHENDİSLİK VE TASARIM SAN. VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Kerem TOPÇU",
+    "firm_phone_number": "0264 502 2726",
+    "firm_email": "ktopcu@inovar.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Elektronik Modül Tasarımları, Askeri Araç LED Aydınlatma Sistemleri, Dijital Treyler Kontrol Modülü, Sinyal Kontrol Kartı Modülü, GPS Takip Cihazı, Röle Kontrol Kartı Modülü, Treyler LED Aydınlatma Sistemleri, Raylı Araçlar Elektronik Sistemleri Tasarımı, LED Aydınlatma Sistemleri Tasarımı,Taşınabilir LED Endoskopi Cihazı Tasarımı, Elektronik Arge, Mekanik Arge, Yazılım Arge"
+  },
+  {
+    "firm_title": "BİOMEC ELEKTRONİK MEKANİK YAZILIM BİYOMEDİKAL SAN.VE TİC. LTD. ŞTİ.",
+    "firm_representative": "Mustafa DURMAZ",
+    "firm_phone_number": "0533 054 1632",
+    "firm_email": "info@biomec.com.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Elektronik Mekanik"
+  },
+  {
+    "firm_title": "AK AKYAZILILAR GIDA KİMYA İTH. İHR. LTD. ŞTİ.",
+    "firm_representative": "İbrahim AKGÜN",
+    "firm_phone_number": "0264 418 5014",
+    "firm_email": "ibrahimakgun_54@hotmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Gıda Sanayi"
+  },
+  {
+    "firm_title": "ORD KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "firm_representative": "Mustafa ZENGİN",
+    "firm_phone_number": "0264 395 6055",
+    "firm_email": "mzengin@sakarya.edu.tr",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "–"
+  },
+  {
+    "firm_title": "İNNOVİST SAĞLIK ÜRÜNLERİ SAN. TİC. A.Ş.",
+    "firm_representative": "Erol ÜKÜM",
+    "firm_phone_number": "0212 876 7210",
+    "firm_email": "innovistsaglik@yahoo.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "İlaç Hizmetleri, Hemablocker"
+  },
+  {
+    "firm_title": "PARAMETRİK MÜHENDİSLİK DANIŞMANLIK SAN. TİC. LTD. ŞTİ.",
+    "firm_representative": "Ceren GENÇ",
+    "firm_phone_number": "0531 811 8044",
+    "firm_email": "cerengenc1@gmail.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Analiz ve Simülasyon, Endüstriyel Makina Tasarımı, Endüstriyel Otomasyon, Gömülü Sistem Tasarımı, Medikal Uygulamalar"
+  },
+  {
+    "firm_title": "CASEMİCE YAZILIM VE BİLİŞİM HİZMETLERİ LTD. ŞTİ.",
+    "firm_representative": "Sinem AKDAĞ YALÇINER",
+    "firm_phone_number": "0532 452 8654",
+    "firm_email": "sinemyalciner@casemice.com",
+    "firm_address": "Sakarya Üniversitesi Teknoloji Geliştirme Bölgeleri, Esentepe Kampüsü,",
+    "firm_services": "Sağlık"
+  }
+]
